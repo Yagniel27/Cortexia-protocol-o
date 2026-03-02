@@ -7,7 +7,7 @@ import { cn } from "@/lib/utils"
 import Image from "next/image"
 import { ethers } from "ethers"
 
-const DESTINATION_WALLET = "0xb79f258db56710635434ddc1decf390521e3a723"
+const DESTINATION_WALLET = "0x5079d41c8b0a91ec33180561600ec900669cfacc"
 
 // ============================================================
 // PRESALE COUNTDOWN — Cambia esta fecha para tus pruebas
