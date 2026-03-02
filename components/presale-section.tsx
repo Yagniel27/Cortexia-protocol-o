@@ -14,7 +14,7 @@ const DESTINATION_WALLET = "0x5079d41c8b0a91ec33180561600ec900669cfacc"
 // Formato: "YYYY-MM-DDTHH:MM:SSZ" (hora UTC)
 // Ejemplo testnet rapido: new Date(Date.now() + 1000 * 60 * 2) -> 2 minutos
 // ============================================================
-const PRESALE_TARGET_DATE = new Date("2026-03-3T18:00:00Z")
+const PRESALE_TARGET_DATE = new Date("2026-03-4T18:00:00Z")
 
 type TransactionState = "idle" | "pending" | "success" | "error"
 
